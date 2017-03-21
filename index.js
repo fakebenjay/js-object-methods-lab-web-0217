@@ -28,8 +28,6 @@ class President {
 
 }
 
-debugger
-
 var georgeWashington = new President("George Washington", "Federalist", "8 years", "Virginia");
 var abrahamLincoln = new President("George Washington", "Republican", "4 years", "Illinois");
 var richardNixon = new President("George Washington", "Republican", "5 years", "New York");
